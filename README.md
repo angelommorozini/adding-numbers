@@ -7,7 +7,7 @@ It allows users to enter two numbers and see their **sum instantly**.
 
 ## Live Demo
 
-🎯 **Click here to try the calculator online:** [🟢 Open Calculator](https://your-github-pages-link-here)
+🎯 **Click here to try the calculator online:** [🟢 Open Calculator](https://angelommorozini.github.io/adding-numbers/)
 
 ---
 
